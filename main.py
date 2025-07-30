@@ -1,13 +1,7 @@
 import flet as ft
 from flet import Colors, Icons
 
-
-
-    
-
-
 def main(page: ft.Page):
-    
     page.window.max_width = 288
     page.window.max_height = 448
     page.window.width = 288
