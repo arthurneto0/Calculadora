@@ -36,10 +36,10 @@
 
 ```bash
 # Clonar repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/arthurneto0/Calculadora.git
 
 # Entrar na pasta
-cd SEU-REPO
+cd Calculadora
 
 # Instalar dependências
 pip install flet
